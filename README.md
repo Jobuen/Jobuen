@@ -1,4 +1,14 @@
-### Hi there 👋
+> Indie game designer currently transitioning into a career in data and machine learning engineering. 
+
+## Currently up to:
+- Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
+- Looking for Junior Data Engineering or ML Engineering positions
+- Building on the SQL skills learned during the recent Data Science bootcamp I attended
+- Familiarizing myself Apache Airflow
+
+## Contact
+www.linkedin.com/in/jonathanbuening
+
 
 <!--
 **Jobuen/Jobuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
