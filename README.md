@@ -2,7 +2,7 @@
 
 ## Currently up to:
 - Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
-- Looking for Junior Data Engineering or ML Engineering positions
+- Applying to Junior Data Engineering or ML Engineering positions
 - Building on the SQL skills learned during the recent Data Science bootcamp I attended
 - Familiarizing myself Apache Airflow
 
