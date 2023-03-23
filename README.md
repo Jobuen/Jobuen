@@ -4,7 +4,7 @@
 - Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
 - Applying to Junior Data Engineering or ML Engineering positions
 - Building on the SQL skills learned during the recent Data Science bootcamp I attended
-- Familiarizing myself Apache Airflow
+- Familiarizing myself with Apache Airflow
 
 ## Contact
 www.linkedin.com/in/jonathanbuening
