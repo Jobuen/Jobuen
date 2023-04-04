@@ -6,14 +6,14 @@ machine learning engineering. <br /> Passionate about system design and the pote
 machine learning applications.
 
 ## Currently up to:
-- Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
-- Improving on my SQL skills
-- Learning to use Apache Airflow
-- Applying to Junior Data Engineering or ML Engineering positions
+- :pray: Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
+- :mortar_board: Improving on my SQL skills
+- :bulb: Learning to use Apache Airflow
+- :mega: Applying to Junior Data Engineering or ML Engineering positions
 
 ## Projects:
 
-| [Solar Odyssey](https://github.com/karimelbana/SolarOdyssey) |
+| ⚡ [Solar Odyssey](https://github.com/karimelbana/SolarOdyssey) ⚡ |
 | - |
 | Predicting the energy demand of rural villages using <br />satellite imagery to aid in infrastructure developement.|
 | Berlin Data Science LeWagon Bootcamp Q1/2023 | 
