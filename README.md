@@ -1,10 +1,22 @@
-> Indie game designer currently transitioning into a career in data and machine learning engineering. 
+
+## About:
+Proficient programmer and former indie game
+designer transitioning into a career in data - and
+machine learning engineering. <br /> Passionate about system design and the potential of data and
+machine learning applications.
 
 ## Currently up to:
 - Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
+- Improving on my SQL skills
+- Learning to use Apache Airflow
 - Applying to Junior Data Engineering or ML Engineering positions
-- Building on the SQL skills learned during the recent Data Science bootcamp I attended
-- Familiarizing myself with Apache Airflow
+
+## Projects:
+
+| [Solar Odyssey](https://github.com/karimelbana/SolarOdyssey) |
+| - |
+| Predicting the energy demand of rural villages using <br />satellite imagery to aid in infrastructure developement.|
+| Berlin Data Science LeWagon Bootcamp Q1/2023 | 
 
 ## Contact
 www.linkedin.com/in/jonathanbuening
