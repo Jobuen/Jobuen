@@ -1,7 +1,7 @@
 
 ## About:
 Proficient programmer and former indie game
-designer transitioning into a career in data - and
+designer transitioning into a career in data and
 machine learning engineering. <br /> Passionate about system design and the potential of data and
 machine learning applications.
 
