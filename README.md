@@ -1,23 +1,4 @@
 
-## About:
-Proficient programmer and former indie game
-designer transitioning into a career in data and
-machine learning engineering. <br /> Passionate about system design and the potential of data and
-machine learning applications.
-
-## Currently up to:
-- :pray: Being thankful to the [Open Source Society University](https://github.com/ossu/computer-science) for their well-maintained library of Computer Science material
-- :mortar_board: Improving on my SQL skills
-- :bulb: Learning to use Apache Airflow
-- :mega: Applying to Junior Data Engineering or ML Engineering positions
-
-## Projects:
-
-| ⚡ [Solar Odyssey](https://github.com/karimelbana/SolarOdyssey) ⚡ |
-| - |
-| Predicting the energy demand of rural villages using <br />satellite imagery to aid in infrastructure developement.|
-| Berlin Data Science LeWagon Bootcamp Q1/2023 | 
-
 ## Contact
 www.linkedin.com/in/jonathanbuening
 
