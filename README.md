@@ -1,6 +1,7 @@
 
 ## About
 Kubernetes Engineer Trainee at Materna SE.
+
 Video game developer in my spare time.
 
 ## Contact
